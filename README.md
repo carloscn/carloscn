@@ -9,15 +9,17 @@
 
 🔭 Working before **Arm China**
 
-📫 Reach me: carlos.wei.hk@gmail.com
+📫 Reach me: **carlos.wei.hk@gmail.com**
 
-💬 Myblog: [myblog](https://github.com/carloscn/blog)
+💬 Myblog: **[->myblog<-](https://github.com/carloscn/blog)**
 
 😈 Position: **Software Engineer**
 
 🧱 Focusing on **C / C++ / Embedded / Qt / Linux / ARM assembly / IoT device / Security**
 
-🧱 In addtion: **Read and draw circuit diagram, matlab simulation and python script; oscilloscope, soldering chip, multimeter tools.**
+🧱 In addtion: **Read and draw circuit diagram, matlab simulation and python script;**
+
+🧱 Moreover: **Oscilloscope, soldering chip and multimeter tools.**
 
 🌱 Learning to **ARMv8 Arch / Linux Kernel / Compiler / Linker**
 
