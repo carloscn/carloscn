@@ -2,18 +2,19 @@
 **carloscn/carloscn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=carloscn&show_icons=true&theme=radical">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=carloscn&show_icons=true&theme=buefy">
 
 
-### Hi there 👋
-🔭 I’m currently working before **Arm China**
+### Hi there 👋  I'm as following:
 
-🧱 I'm focusing on **C/C++/Embedded/Qt/Linux/ARM assembly**
+🔭 Working before **Arm China**
 
-🌱 I’m currently learning **ARM Arch/Linux Kernel/Compiler/Linker**
+📫 Reach me: carlos.wei.hk@gmail.com
 
-💬 Myblog: (https://github.com/carloscn/blog)
+💬 Myblog: [myblog](https://github.com/carloscn/blog)
 
-📫 How to reach me: carlos.wei.hk@gmail.com
+🧱 Focusing on **C/C++/Embedded/Qt/Linux/ARM assembly**
+
+🌱 Learning to **ARM Arch/Linux Kernel/Compiler/Linker**
 
 🏃🏻 Fun fact: **Lesmills** body-combat/body-pump/the-trip and RPM
