@@ -15,8 +15,6 @@
 
 😈 Position: **Software Engineer**
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloscn&layout=compact">
-
 🧱 Focusing on **C / C++ / Embedded / Qt / Linux / ARM assembly / IoT device / Security**
 
 🧱 In addtion: **Read and draw circuit diagram, matlab simulation and python script;**
