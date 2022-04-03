@@ -15,8 +15,10 @@
 
 😈 Position: **Software Engineer**
 
-🧱 Focusing on **C/C++/Embedded/Qt/Linux/ARM assembly**
+🧱 Focusing on **C / C++ / Embedded / Qt / Linux / ARM assembly / IoT device / Security**
 
-🌱 Learning to **ARM Arch/Linux Kernel/Compiler/Linker**
+🧱 In addtion: **Read and draw circuit diagram, matlab simulation and python script; oscilloscope, soldering chip, multimeter tools.**
 
-🏃🏻 Fun fact: **Lesmills** body-combat/body-pump/the-trip and RPM
+🌱 Learning to **ARMv8 Arch / Linux Kernel / Compiler / Linker**
+
+🏃🏻 Fun fact: **LesMills body-combat / body-pump / the-trip and RPM**
