@@ -13,6 +13,8 @@
 
 💬 Myblog: [myblog](https://github.com/carloscn/blog)
 
+😈 Position: **Software Engineer**
+
 🧱 Focusing on **C/C++/Embedded/Qt/Linux/ARM assembly**
 
 🌱 Learning to **ARM Arch/Linux Kernel/Compiler/Linker**
