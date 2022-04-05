@@ -11,7 +11,7 @@
 
 📫 Reach me: **carlos.wei.hk@gmail.com**
 
-💬 Myblog: **[->myblog<-](https://github.com/carloscn/blog)**
+💬 Myblog: **[myblog](https://github.com/carloscn/blog)**
 
 😈 Position: **Software Engineer**
 
