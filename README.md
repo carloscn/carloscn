@@ -15,6 +15,8 @@
 
 😈 Position: **Software Engineer**
 
+<img align="right" src="https://user-images.githubusercontent.com/16836611/162155274-d558e446-2b76-4834-93d9-96d60c9a50c7.jpeg">
+
 🧱 Focusing on **C / C++ / Embedded / Qt / Linux / ARM assembly / IoT device / Security**
 
 🧱 In addtion: **Read and draw circuit diagram, matlab simulation and python script;**
