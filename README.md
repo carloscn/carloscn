@@ -21,10 +21,12 @@
 
 ---
 
-### About Me : <img align="center" src="https://komarev.com/ghpvc/?username=carloscn&style=flat-square&color=blue" alt=""/>
+### About Me :
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=carloscn&show_icons=true&theme=default">
 
 **I am an Embedded Software Developer from China.**
 
 **Focusing on** C/C++/Embedded/Qt/Linux/ARM assembly/IoT device/Security. Learning to ARMv7/v8 Arch/Linux Kernel/Compiler/Linker Fun fact: LesMills body-combat/body-pump/ he-trip and RPM.
+
+<img align="center" src="https://komarev.com/ghpvc/?username=carloscn&style=flat-square&color=blue" alt=""/>
