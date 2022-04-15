@@ -1,28 +1,35 @@
 <!--
 **carloscn/carloscn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** img.shields.io
 -->
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+---
+
+### 🧏‍♂️: About Me : <img align="center" src="https://komarev.com/ghpvc/?username=carloscn&style=flat-square&color=blue" alt=""/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=carloscn&show_icons=true&theme=default">
 
+I am an Embedded Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China.
 
-### Hi there 👋  I'm as following:
+🧱 Focusing on **C/C++/Embedded/Qt/Linux/ARM assembly/IoT device/Security**
 
-🔭 Working before **Arm China**
+🌱 Learning to **ARMv7/v8 Arch/Linux Kernel/Compiler/Linker**
 
-📫 Reach me: **carlos.wei.hk@gmail.com**
+🏃🏻 Fun fact: **LesMills body-combat/body-pump/ he-trip and RPM**
 
-💬 Myblog: **[myblog](https://github.com/carloscn/blog)**
 
-😈 Position: **Software Engineer**
+---
 
-<img align="right" src="https://user-images.githubusercontent.com/16836611/162155274-d558e446-2b76-4834-93d9-96d60c9a50c7.jpeg">
+### :fire: My Stats :
 
-🧱 Focusing on **C / C++ / Embedded / Qt / Linux / ARM assembly / IoT device / Security**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscn&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-🧱 In addtion: **Read and draw circuit diagram, matlab simulation and python script;**
+---
 
-🧱 Moreover: **Oscilloscope, soldering chip and multimeter tools.**
-
-🌱 Learning to **ARMv8 Arch / Linux Kernel / Compiler / Linker**
-
-🏃🏻 Fun fact: **LesMills body-combat / body-pump / the-trip and RPM**
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
