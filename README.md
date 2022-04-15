@@ -7,6 +7,7 @@
 </div>
 ---
 -->
+
 <div id="header" align="center">
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/16836611/163514037-fb7cc845-c7d2-41ae-acbc-8a202f2f9016.png">
 </div>
@@ -22,10 +23,9 @@
 <a href="https://github.com/carloscn/blog"><img alt="open-source" src="https://img.shields.io/website-up-down-green-red/https/lbesson.bitbucket.io.svg"></a>
 <a href="https://github.com/carloscn?tab=projects&type=beta"><img alt="open-source" src="https://img.shields.io/website-up-down-green-red/http/myfakewebsitethatshouldnotexist.at.least.i.hope.svg"></a>
   
-<div>
-
+</div>
+  
 ---
-
 ### About Me :
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=carloscn&show_icons=true&theme=default">
@@ -33,7 +33,7 @@
 **I am an Embedded Software Developer from China.** 
 
 **Focusing on** C/C++/Embedded/Qt/Linux/ARM assembly/IoT device/Security. Learning to ARMv7/v8 Arch/Linux Kernel/Compiler/Linker Fun fact: LesMills body-combat/body-pump/ he-trip and RPM. 
-
+  
 <img src="https://komarev.com/ghpvc/?username=carloscn&style=flat-square&color=blue" alt=""/>
 
 
