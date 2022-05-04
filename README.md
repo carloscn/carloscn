@@ -27,13 +27,15 @@
 ---
   
 ### Recent Blog Updating
-* [ARMv8]  [12_ARMv8_异常处理（三）- GICv1/v2中断处理](https://github.com/carloscn/blog/issues/51) [2022-4-21]
+
 * [ARMv8]  [14_ARMv8_内存管理（二）-ARM的MMU设计](https://github.com/carloscn/blog/issues/54) [2022-5-2]
 * [ARMv8]  [13_ARMv8_内存管理（一）-内存管理要素](https://github.com/carloscn/blog/issues/53) [2022-4-27]
 * [Linux]  [08_ELF文件_运行库（入口、库、多线程）](https://github.com/carloscn/blog/issues/52) [2022-4-24]
+* [ARMv8]  [12_ARMv8_异常处理（三）- GICv1/v2中断处理](https://github.com/carloscn/blog/issues/51) [2022-4-21]
 * [Linux]  [07_ELF文件_堆和栈调用惯例以ARMv8为例](https://github.com/carloscn/blog/issues/50) [2022-4-19]
-* [more] please refer to the all blogs on : https://github.com/carloscn/blog 
+* [More] **参考全部博客： https://github.com/carloscn/blog**
 ---
+  
 ### About Me :
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=carloscn&show_icons=true&theme=default">
