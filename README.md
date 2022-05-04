@@ -15,6 +15,7 @@
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/16836611/163514037-fb7cc845-c7d2-41ae-acbc-8a202f2f9016.png">
 </div>
 -->
+
 ---
   
 ### Recent Blog Updating
@@ -38,11 +39,7 @@
 <img src="https://komarev.com/ghpvc/?username=carloscn&style=flat-square&color=blue" alt=""/>
 
 
-<div id="header" align="center">
-<a><img alt="open-source" src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white&style=flat"></a>
-<a><img alt="open-source" src="https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=flat"></a>
-<a><img alt="open-source" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=flat"></a>
-<a><img alt="open-source" src="https://img.shields.io/badge/Qt-%23217346.svg?logo=Qt&logoColor=white&style=flat"></a>
+<div id="header" align="left">
 <a><img alt="open-source" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=flat"></a>
 <a><img alt="open-source" src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=flat"></a>
 <a><a href="https://t.me/zzzzzmle"><img alt="open-source" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat"></a>
