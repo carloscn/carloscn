@@ -15,6 +15,8 @@
 ---
 -->
 
+<a><a href="https://github.com/carloscn/blog/blob/main/README.md#ARMv8"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> <a><a href="https://github.com/carloscn/blog/blob/main/README.md#linux-userspace"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Linux&color=orange"></a> <a><a href="https://github.com/carloscn/blog/blob/main/README.md#linux-kernel"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a> <a><a href="https://github.com/carloscn/blog/blob/main/README.md#embedded"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Embedded&color=green"></a> <a><a href="https://github.com/carloscn/blog/blob/main/README.md#Qt"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Qt&color=greenlight"></a>
+
 ### Recent Blog Updating
 * [15_ARMv8_内存管理（三）-MMU恒等映射及Linux实现](https://github.com/carloscn/blog/issues/55) [2022-5-7] <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>  
 * [14_ARMv8_内存管理（二）-ARM的MMU设计](https://github.com/carloscn/blog/issues/54) [2022-5-2] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> 
