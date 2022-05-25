@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-* ARMv8: <a><img width="70" height="18" src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> 
+* ARMv8: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> 
 * Linux: <a><img width="70" height="18"  src="https://img.shields.io/static/v1?label=blog&message=Linux&color=orange"></a>
 * ELF: <a><img width="70" height="18"  src="https://img.shields.io/static/v1?label=blog&message=ELF&color=green"></a>
 * Kernel: <a><img width="70" height="18"  src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
@@ -16,12 +16,13 @@
 -->
 
 ### Recent Blog Updating:
-
+* [20_ARMv8_barrier（一）流水线和一致性模型](https://github.com/carloscn/blog/issues/62) [2022-5-24] (updating) <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> 
+* [01_bootloader/uboot/secureboot](https://github.com/carloscn/blog/issues/61) [2022-5-22] (updating) <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Embedded&color=red"></a> <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a>
 * [19_ARMv8_TLB管理(Translation Lookaside buffer)](https://github.com/carloscn/blog/issues/60) [2022-5-18] <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> 
 * [18_ARMv8_高速缓存（三）多核与一致性要素](https://github.com/carloscn/blog/issues/59) [2022-5-16] <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> 
 * [17_ARMv8_高速缓存（二）ARM cache设计](https://github.com/carloscn/blog/issues/58) [2022-5-12] <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> 
 * [16_ARMv8_高速缓存（一）cache要素](https://github.com/carloscn/blog/issues/57) [2022-5-9] [2022-5-10] <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=ARMv7&color=blue"></a> <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> 
-* [09_ELF文件_基于ARMv7的Linux系统调用原理](https://github.com/carloscn/blog/issues/56) [2022-5-7] <a><img height="16"   src="https://img.shields.io/static/v1?label=blog&message=ELF&color=green"></a> <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=ARMv7&color=blue"></a> <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=Linux&color=orange"></a> 
+* [09_ELF文件_基于ARMv7的Linux系统调用原理](https://github.com/carloscn/blog/issues/56) [2022-5-7] <a><img height="16"   src="https://img.shields.io/static/v1?label=blog&message=ELF&color=green"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ARMv7&color=blue"></a> <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=Linux&color=orange"></a> 
 * [15_ARMv8_内存管理（三）-MMU恒等映射及Linux实现](https://github.com/carloscn/blog/issues/55) [2022-5-7] <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>  
 * [14_ARMv8_内存管理（二）-ARM的MMU设计](https://github.com/carloscn/blog/issues/54) [2022-5-2] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> 
 * [13_ARMv8_内存管理（一）-内存管理要素](https://github.com/carloscn/blog/issues/53) [2022-4-27]  <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=Linux&color=orange"></a>  
