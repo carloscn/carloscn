@@ -7,15 +7,16 @@
 </div>
 
 * ARMv8: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> 
-* Linux: <a><img width="70" height="18"  src="https://img.shields.io/static/v1?label=blog&message=Linux&color=orange"></a>
-* ELF: <a><img width="70" height="18"  src="https://img.shields.io/static/v1?label=blog&message=ELF&color=green"></a>
-* Kernel: <a><img width="70" height="18"  src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
-* Compiler: <a><img width="70" height="18"  src="https://img.shields.io/static/v1?label=blog&message=Compiler&color=lightgrey"></a>
+* Linux: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Linux&color=orange"></a>
+* ELF: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ELF&color=green"></a>
+* Kernel: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
+* Compiler: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Compiler&color=lightgrey"></a>
 
 ---
 -->
 
 ### Recent Blog Updating:
+* [21_ARMv8_barrier（二）内存屏障案例](https://github.com/carloscn/blog/issues/63) [2022-5-29] [updating]  <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
 * [20_ARMv8_barrier（一）流水线和一致性模型](https://github.com/carloscn/blog/issues/62) [2022-5-24] [2022-5-29] <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> 
 * [01_bootloader/uboot/secureboot](https://github.com/carloscn/blog/issues/61) [2022-5-22] (updating) <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Embedded&color=red"></a> <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a>
 * [19_ARMv8_TLB管理(Translation Lookaside buffer)](https://github.com/carloscn/blog/issues/60) [2022-5-18] <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> 
@@ -26,7 +27,6 @@
 * [15_ARMv8_内存管理（三）-MMU恒等映射及Linux实现](https://github.com/carloscn/blog/issues/55) [2022-5-7] <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>  
 * [14_ARMv8_内存管理（二）-ARM的MMU设计](https://github.com/carloscn/blog/issues/54) [2022-5-2] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> 
 * [13_ARMv8_内存管理（一）-内存管理要素](https://github.com/carloscn/blog/issues/53) [2022-4-27]  <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=Linux&color=orange"></a>  
-* [08_ELF文件_运行库（入口、库、多线程）](https://github.com/carloscn/blog/issues/52) [2022-4-24] <a><img height="16"   src="https://img.shields.io/static/v1?label=blog&message=Linux&color=orange"></a>  <a><img height="16"   src="https://img.shields.io/static/v1?label=blog&message=ELF&color=green"></a>
 * **参考全部博客： https://github.com/carloscn/blog** <a><a href="https://github.com/carloscn/blog/blob/main/README.md#ARMv8"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> <a><a href="https://github.com/carloscn/blog/blob/main/README.md#linux-userspace"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Linux&color=orange"></a> <a><a href="https://github.com/carloscn/blog/blob/main/README.md#linux-kernel"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a> <a><a href="https://github.com/carloscn/blog/blob/main/README.md#embedded"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Embedded&color=green"></a> <a><a href="https://github.com/carloscn/blog/blob/main/README.md#Qt"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Qt&color=greenlight"></a> 
 
 
