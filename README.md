@@ -15,7 +15,7 @@
 ---
 -->
 
-### Recent Blog Updating:
+### [Recent Blog Updating:](https://github.com/carloscn/blog/blob/main/README.md)
 * [01_Linux内核的启动（一）之启动前准备](https://github.com/carloscn/blog/issues/64)[2022-7-5] [2022-7-8] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
 * [21_ARMv8_barrier（二）内存屏障案例](https://github.com/carloscn/blog/issues/63) [2022-5-29] [updating]  <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
 * [20_ARMv8_barrier（一）流水线和一致性模型](https://github.com/carloscn/blog/issues/62) [2022-5-24] [2022-5-29] <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> 
