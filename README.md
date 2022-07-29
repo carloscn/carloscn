@@ -16,6 +16,7 @@
 -->
 
 ### [Recent Blog Updating:](https://github.com/carloscn/blog/issues)
+* [0x23_LinuxKernel_内核活动（三）中断体系结构（中断下文）](https://github.com/carloscn/blog/issues/70) [2022-7-29] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
 * [0x21_LinuxKernel_内核活动（一）之系统调用](https://github.com/carloscn/blog/issues/69) [2022-7-27] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
 * [0x22_LinuxKernel_内核活动（二）中断体系结构（中断上文）](https://github.com/carloscn/blog/issues/68) [2022-7-27] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
 * [存储介质（一）eMMC存储介质结构和协议](https://gist.github.com/carloscn/d5e0d86b9f6ac2849771c159d86ba1dd) 【小知识积累】 [2022-7-25]
@@ -29,7 +30,6 @@
 * [19_ARMv8_TLB管理(Translation Lookaside buffer)](https://github.com/carloscn/blog/issues/60) [2022-5-18] <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> 
 * [18_ARMv8_高速缓存（三）多核与一致性要素](https://github.com/carloscn/blog/issues/59) [2022-5-16] <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> 
 * [17_ARMv8_高速缓存（二）ARM cache设计](https://github.com/carloscn/blog/issues/58) [2022-5-12] <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> 
-* [16_ARMv8_高速缓存（一）cache要素](https://github.com/carloscn/blog/issues/57) [2022-5-9] [2022-5-10] <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=ARMv7&color=blue"></a> <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> 
 * **参考全部博客： https://github.com/carloscn/blog** <a><a href="https://github.com/carloscn/blog/blob/main/README.md#ARMv8"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> <a><a href="https://github.com/carloscn/blog/blob/main/README.md#linux-userspace"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Linux&color=orange"></a> <a><a href="https://github.com/carloscn/blog/blob/main/README.md#linux-kernel"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a> <a><a href="https://github.com/carloscn/blog/blob/main/README.md#embedded"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Embedded&color=green"></a> <a><a href="https://github.com/carloscn/blog/blob/main/README.md#Qt"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Qt&color=greenlight"></a> 
 
 
