@@ -16,9 +16,9 @@
 -->
 
 ### [Recent Blog Updating:](https://github.com/carloscn/blog/issues)
+* [0x21_LinuxKernel_内核活动（一）之系统调用](https://github.com/carloscn/blog/issues/69) [2022-7-27] [2022-8-9] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
 * [0x24_LinuxKernel_进程（一）进程的管理（生命周期、进程表示）](https://github.com/carloscn/blog/issues/8) [2022-8-7] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
 * [0x23_LinuxKernel_内核活动（三）中断体系结构（中断下文）](https://github.com/carloscn/blog/issues/70) [2022-7-29] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
-* [0x21_LinuxKernel_内核活动（一）之系统调用](https://github.com/carloscn/blog/issues/69) [2022-7-27] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
 * [0x22_LinuxKernel_内核活动（二）中断体系结构（中断上文）](https://github.com/carloscn/blog/issues/68) [2022-7-27] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
 * [存储介质（一）eMMC存储介质结构和协议](https://gist.github.com/carloscn/d5e0d86b9f6ac2849771c159d86ba1dd) 【小知识积累】 [2022-7-25]
 * [02_LinuxKernel_内核的启动（二）SMP多核处理器启动过程分析](https://github.com/carloscn/blog/issues/66) [2022-7-22]  <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Embedded&color=red"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
