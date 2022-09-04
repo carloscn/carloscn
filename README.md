@@ -17,8 +17,8 @@
 
 ### [Recent Blog Updating:](https://github.com/carloscn/blog/issues)
 * ***[算法和数据结构(TOP) leetcode刷刷刷.....](https://github.com/carloscn/structstudy) [updating]***\
-* [0x32_LinuxKernel_内存管理（二）虚拟内存管理、缺页与调试工具]](https://github.com/carloscn/blog/issues/78) [2022-9-4]<a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
-* [0x31_LinuxKernel_进程虚拟内存（一）地址空间](https://github.com/carloscn/blog/issues/77) [2022-9-1]<a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
+* [0x32_LinuxKernel_内存管理（二）虚拟内存管理、缺页与调试工具](https://github.com/carloscn/blog/issues/78) [2022-9-4]<a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
+* [0x31_LinuxKernel_内存管理（一）物理页面、伙伴系统和slab分配器](https://github.com/carloscn/blog/issues/77) [2022-9-1]<a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
 * [10_ARMv8_异常处理（一） - 入口与返回、栈选择、异常向量表](https://github.com/carloscn/blog/issues/47) [updating] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> 
 * [0x26_LinuxKernel_设备驱动（一）综述与文件系统关联](https://github.com/carloscn/blog/issues/72) [2022-8-12] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Driver&color=green"></a>
 * [0x24_LinuxKernel_进程（一）进程的管理（生命周期、进程表示）](https://github.com/carloscn/blog/issues/8) [2022-8-7] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
