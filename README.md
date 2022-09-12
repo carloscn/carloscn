@@ -16,7 +16,8 @@
 -->
 
 ### [Recent Blog Updating:](https://github.com/carloscn/blog/issues)
-* ***[算法和数据结构(TOP) leetcode刷刷刷.....](https://github.com/carloscn/structstudy) [updating]***
+* ***[算法和数据结构(TOP) leetcode刷刷刷.....](https://github.com/carloscn/structstudy) [updating]*** 
+* [Linux应用调试（三）工具之Valgrind](https://gist.github.com/carloscn/3a51ee3e014578ecaae5c6ff99ce250a) 小知识积累】 [2022-9-12]
 * [Linux应用调试（二）工具之coredump](https://gist.github.com/carloscn/63d65a6aa04d5f66122056af6e268644) 【小知识积累】 [2022-9-11]
 * [Linux应用调试（一）方法、技巧和工具 - 综述](https://gist.github.com/carloscn/4037f1ffd881e8eac29e8511e6ca1431) 【小知识积累】 [2022-9-11]
 * [0x33_LinuxKernel_同步管理_原子操作_内存屏障_锁机制等](https://github.com/carloscn/blog/issues/79) [2022-9-8] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
