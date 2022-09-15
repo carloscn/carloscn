@@ -33,6 +33,7 @@
 * [01_Embedded_ARMv7/v8 non-secure Boot Flow](https://github.com/carloscn/blog/issues/61) [2022-5-22] [2022-7-11] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ARMv7&color=blue"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Embedded&color=red"></a>
 * [01_LinuxKernel_内核的启动（一）之启动前准备](https://github.com/carloscn/blog/issues/64) [2022-7-5] [2022-7-8] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
 * [21_ARMv8_barrier（二）内存屏障案例](https://github.com/carloscn/blog/issues/63) [2022-5-29] [updating]  <a><img height="16"  src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
+* [Linux机制之对象管理和引用计数（kobject）](https://gist.github.com/carloscn/3f0179ecfa599969556e86eb80555266) 【小知识积累】 [2022-9-15]
 * [Linux机制之内存池 [2022-9-13]](https://gist.github.com/carloscn/6db41fb72ec3504edb2c0208d9b99d51) 【小知识积累】 [2022-9-13]
 * [Linux应用调试（三）工具之Valgrind](https://gist.github.com/carloscn/3a51ee3e014578ecaae5c6ff99ce250a) 【小知识积累】 [2022-9-12]
 * [Linux应用调试（二）工具之coredump](https://gist.github.com/carloscn/63d65a6aa04d5f66122056af6e268644) 【小知识积累】 [2022-9-11]
