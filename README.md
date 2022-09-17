@@ -15,7 +15,7 @@
 ---
 -->
 
-### [Recent Blog Updating:](https://github.com/carloscn/blog/issues)
+### [OOPS!! recent blog updated (click me to leave your comments)](https://github.com/carloscn/blog/discussions) : 
 * ***[算法和数据结构(TOP) leetcode刷刷刷.....](https://github.com/carloscn/structstudy) [updating]*** 
 * [0x26_LinuxKernel_设备驱动（一）综述与文件系统关联](https://github.com/carloscn/blog/issues/72) [2022-9-14] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Driver&color=green"></a>
 * [0x33_LinuxKernel_同步管理_原子操作_内存屏障_锁机制等](https://github.com/carloscn/blog/issues/79) [2022-9-8] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
