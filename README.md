@@ -17,6 +17,8 @@
 
 ### [OOPS!! recent blog updated (click me to leave your comments)](https://github.com/carloscn/blog/discussions) : 
 * ***[算法和数据结构(TOP) leetcode刷刷刷.....](https://github.com/carloscn/structstudy) [updating]*** 
+* [Linux设备树 - DTS语法、节点、设备树解析等](https://github.com/carloscn/blog/issues/81) [2022-9-23] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Driver&color=green"></a>
+* [0x26_LinuxKernel_设备驱动（一）综述与文件系统关联](https://github.com/carloscn/blog/issues/72) [2022-9-14] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Driver&color=green"></a>
 * [0x30_LinuxKernel_设备驱动（五）模块](https://github.com/carloscn/blog/issues/76) [2022-9-22] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Driver&color=green"></a>
 * [0x26_LinuxKernel_设备驱动（一）综述与文件系统关联](https://github.com/carloscn/blog/issues/72) [2022-9-14] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Driver&color=green"></a>
 * [0x33_LinuxKernel_同步管理_原子操作_内存屏障_锁机制等](https://github.com/carloscn/blog/issues/79) [2022-9-8] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
@@ -32,7 +34,6 @@
 * [03_Embedded_ARMv8 BL33 Uboot Booting Flow](https://github.com/carloscn/blog/issues/67) [2022-7-22] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Embedded&color=red"></a> 
 * [02_Embedded_ARMv8 ATF Secure Boot Flow (BL1/BL2/BL31)](https://github.com/carloscn/blog/issues/65) [2022-7-11] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Embedded&color=red"></a> 
 * [01_Embedded_ARMv7/v8 non-secure Boot Flow](https://github.com/carloscn/blog/issues/61) [2022-5-22] [2022-7-11] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ARMv7&color=blue"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Embedded&color=red"></a>
-* [01_LinuxKernel_内核的启动（一）之启动前准备](https://github.com/carloscn/blog/issues/64) [2022-7-5] [2022-7-8] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
 * [Linux机制copy_{to, from}_user](https://gist.github.com/carloscn/d3386d01e04bd60b7166244b2e3a3c30) 【小知识积累】 [2022-9-15]
 * [Linux机制之对象管理和引用计数（kobject）](https://gist.github.com/carloscn/3f0179ecfa599969556e86eb80555266) 【小知识积累】 [2022-9-15]
 * [Linux机制之内存池 [2022-9-13]](https://gist.github.com/carloscn/6db41fb72ec3504edb2c0208d9b99d51) 【小知识积累】 [2022-9-13]
