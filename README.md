@@ -17,6 +17,7 @@
 
 ### [OOPS!! recent blog updated (click me to leave your comments)](https://github.com/carloscn/blog/discussions) : 
 * ***[算法和数据结构(TOP) leetcode刷刷刷.....](https://github.com/carloscn/structstudy) [updating]*** 
+* [01_LinuxDebug_调试理论和基础综述](https://github.com/carloscn/blog/issues/83) [2022-9-28] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red">
 * [Linux设备树 - DTS语法、节点、设备树解析等](https://github.com/carloscn/blog/issues/81) [2022-9-23] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Driver&color=green"></a>
 * [0x26_LinuxKernel_设备驱动（一）综述与文件系统关联](https://github.com/carloscn/blog/issues/72) [2022-9-14] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Driver&color=green"></a>
 * [0x30_LinuxKernel_设备驱动（五）模块](https://github.com/carloscn/blog/issues/76) [2022-9-22] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Driver&color=green"></a>
@@ -33,13 +34,11 @@
 * [02_LinuxKernel_内核的启动（二）SMP多核处理器启动过程分析](https://github.com/carloscn/blog/issues/66) [2022-7-22]  <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Embedded&color=red"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
 * [03_Embedded_ARMv8 BL33 Uboot Booting Flow](https://github.com/carloscn/blog/issues/67) [2022-7-22] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Embedded&color=red"></a> 
 * [02_Embedded_ARMv8 ATF Secure Boot Flow (BL1/BL2/BL31)](https://github.com/carloscn/blog/issues/65) [2022-7-11] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Embedded&color=red"></a> 
-* [01_Embedded_ARMv7/v8 non-secure Boot Flow](https://github.com/carloscn/blog/issues/61) [2022-5-22] [2022-7-11] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ARMv7&color=blue"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Embedded&color=red"></a>
 * [Linux机制copy_{to, from}_user](https://gist.github.com/carloscn/d3386d01e04bd60b7166244b2e3a3c30) 【小知识积累】 [2022-9-15]
 * [Linux机制之对象管理和引用计数（kobject）](https://gist.github.com/carloscn/3f0179ecfa599969556e86eb80555266) 【小知识积累】 [2022-9-15]
 * [Linux机制之内存池 [2022-9-13]](https://gist.github.com/carloscn/6db41fb72ec3504edb2c0208d9b99d51) 【小知识积累】 [2022-9-13]
 * [Linux应用调试（三）工具之Valgrind](https://gist.github.com/carloscn/3a51ee3e014578ecaae5c6ff99ce250a) 【小知识积累】 [2022-9-12]
 * [Linux应用调试（二）工具之coredump](https://gist.github.com/carloscn/63d65a6aa04d5f66122056af6e268644) 【小知识积累】 [2022-9-11]
-* [Linux应用调试（一）方法、技巧和工具 - 综述](https://gist.github.com/carloscn/4037f1ffd881e8eac29e8511e6ca1431) 【小知识积累】 [2022-9-11]
 * **参考全部博客： https://github.com/carloscn/blog** <a><a href="https://github.com/carloscn/blog/blob/main/README.md#ARMv8"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> <a><a href="https://github.com/carloscn/blog/blob/main/README.md#linux-userspace"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Linux&color=orange"></a> <a><a href="https://github.com/carloscn/blog/blob/main/README.md#linux-kernel"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a> <a><a href="https://github.com/carloscn/blog/blob/main/README.md#embedded"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Embedded&color=green"></a> <a><a href="https://github.com/carloscn/blog/blob/main/README.md#Qt"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Qt&color=greenlight"></a> 
 
 
