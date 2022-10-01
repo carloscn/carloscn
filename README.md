@@ -11,12 +11,16 @@
 * ELF: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ELF&color=green"></a>
 * Kernel: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
 * Compiler: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Compiler&color=lightgrey"></a>
-
+* OPTEE: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=OPTEE&color=green"></a>
+* Security: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=lightgrey"></a>
 ---
 -->
 
 ### [OOPS!! recent blog updated (click me to leave your comments)](https://github.com/carloscn/blog/discussions) : 
 * ***[算法和数据结构(TOP) leetcode刷刷刷.....](https://github.com/carloscn/structstudy) [updating]*** 
+* [03_OPTEE-OS_系统集成之（一）编译、实例、在QEMU上执行](https://github.com/carloscn/blog/issues/93) [2022-10-1] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=OPTEE&color=green"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=lightgrey"></a>
+* [02_OPTEE-OS_基础之（二）TrustZone和ATF功能综述、简要介绍 ](https://github.com/carloscn/blog/issues/92) [2022-10-1] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=OPTEE&color=green"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=lightgrey"></a>
+* [01_OPTEE-OS_基础之（一）功能综述、简要介绍](https://github.com/carloscn/blog/issues/91) [2022-10-1] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=OPTEE&color=green"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=lightgrey"></a>
 * [01_LinuxDebug_调试理论和基础综述](https://github.com/carloscn/blog/issues/83) [2022-9-28] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red">
 * [Linux设备树 - DTS语法、节点、设备树解析等](https://github.com/carloscn/blog/issues/81) [2022-9-23] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Driver&color=green"></a>
 * [0x26_LinuxKernel_设备驱动（一）综述与文件系统关联](https://github.com/carloscn/blog/issues/72) [2022-9-14] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Driver&color=green"></a>
