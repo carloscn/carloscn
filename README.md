@@ -18,6 +18,8 @@
 
 ### [OOPS!! recent blog updated (click me to leave your comments)](https://github.com/carloscn/blog/discussions) : 
 * ***[算法和数据结构(TOP) leetcode刷刷刷.....](https://github.com/carloscn/structstudy) [updating]*** 
+* [07_OPTEE-OS_系统集成之（五）REE侧上层软件](https://github.com/carloscn/blog/issues/97) [2022-10-4] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=OPTEE&color=green"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=lightgrey"></a>
+* [06_OPTEE-OS_系统集成之（四）OPTEE镜像启动过程](https://github.com/carloscn/blog/issues/96) [2022-10-4] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=OPTEE&color=green"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=lightgrey"></a>
 * [05_OPTEE-OS_系统集成之（三）ATF启动过程](https://github.com/carloscn/blog/issues/95) [2022-10-3] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=OPTEE&color=green"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=lightgrey"></a>
 * [04_OPTEE-OS_系统集成之（二）基于QEMU的OPTEE启动过程](https://github.com/carloscn/blog/issues/94) [2022-10-2] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=OPTEE&color=green"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=lightgrey"></a>
 * [03_OPTEE-OS_系统集成之（一）编译、实例、在QEMU上执行](https://github.com/carloscn/blog/issues/93) [2022-10-1] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=OPTEE&color=green"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=lightgrey"></a>
