@@ -18,6 +18,11 @@
 
 ### [OOPS!! recent blog updated (click me to leave your comments)](https://github.com/carloscn/blog/discussions) : 
 * ***[算法和数据结构(TOP) leetcode刷刷刷.....](https://github.com/carloscn/structstudy) [updating]***
+* [18_OPTEE-OS_应用之（三）可信应用的开发](https://github.com/carloscn/blog/issues/108) [2022-10-7] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=OPTEE&color=green"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=lightgrey"></a>
+* [16_OPTEE-OS_应用之（一）TA镜像的签名和加载](https://github.com/carloscn/blog/issues/106) [2022-10-7] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=OPTEE&color=green"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=lightgrey"></a>
+* [15_OPTEE-OS_内核之（七）系统调用及IPC机制](https://github.com/carloscn/blog/issues/105) [2022-10-6] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=OPTEE&color=green"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=lightgrey"></a>
+* [14_OPTEE-OS_内核之（六）线程管理与并发](https://github.com/carloscn/blog/issues/104) [2022-10-6] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=OPTEE&color=green"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=lightgrey"></a>
+* [12_OPTEE-OS_内核之（四）对TA请求的处理](https://github.com/carloscn/blog/issues/102) [2022-10-6] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=OPTEE&color=green"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=lightgrey"></a>
 * [11_OPTEE-OS_内核之（三）中断与异常的处理](https://github.com/carloscn/blog/issues/101) [2022-10-5] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=OPTEE&color=green"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=lightgrey"></a>
 * [10_OPTEE-OS_内核之（二）对安全监控模式的调用的处理](https://github.com/carloscn/blog/issues/100) [2022-10-5] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=OPTEE&color=green"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=lightgrey"></a>
 * [09_OPTEE-OS_内核之（一）ARM核安全态和非安全态的切换](https://github.com/carloscn/blog/issues/99) [2022-10-5] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=OPTEE&color=green"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=lightgrey"></a>
@@ -36,10 +41,6 @@
 * [0x26_LinuxKernel_设备驱动（一）综述与文件系统关联](https://github.com/carloscn/blog/issues/72) [2022-9-14] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Driver&color=green"></a>
 * [0x33_LinuxKernel_同步管理_原子操作_内存屏障_锁机制等](https://github.com/carloscn/blog/issues/79) [2022-9-8] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
 * [0x32_LinuxKernel_内存管理（二）虚拟内存管理、缺页与调试工具](https://github.com/carloscn/blog/issues/78) [2022-9-4] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
-* [0x31_LinuxKernel_内存管理（一）物理页面、伙伴系统和slab分配器](https://github.com/carloscn/blog/issues/77) [2022-9-1] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
-* [10_ARMv8_异常处理（一） - 入口与返回、栈选择、异常向量表](https://github.com/carloscn/blog/issues/47) [updating] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> 
-* [0x24_LinuxKernel_进程（一）进程的管理（生命周期、进程表示）](https://github.com/carloscn/blog/issues/8) [2022-8-7] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
-* [0x21_LinuxKernel_内核活动（一）之系统调用](https://github.com/carloscn/blog/issues/69) [2022-7-27] [2022-8-9] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
 * [Linux机制copy_{to, from}_user](https://gist.github.com/carloscn/d3386d01e04bd60b7166244b2e3a3c30) 【小知识积累】 [2022-9-15]
 * [Linux机制之对象管理和引用计数（kobject）](https://gist.github.com/carloscn/3f0179ecfa599969556e86eb80555266) 【小知识积累】 [2022-9-15]
 * [Linux机制之内存池 [2022-9-13]](https://gist.github.com/carloscn/6db41fb72ec3504edb2c0208d9b99d51) 【小知识积累】 [2022-9-13]
