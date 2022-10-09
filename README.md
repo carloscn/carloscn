@@ -16,6 +16,17 @@
 ---
 -->
 
+### About Me :
+
+
+**I am an Embedded Software Developer from China.** 
+
+**Focusing on** C/C++/Embedded/Qt/Linux/ARM assembly/IoT device/Security. Learning to ARMv7/v8 Arch/Linux Kernel/Compiler/Linker Fun fact: LesMills body-combat/body-pump/ he-trip and RPM. 
+  
+<img src="https://komarev.com/ghpvc/?username=carloscn&style=flat-square&color=blue" alt=""/>
+
+--------------------------
+
 ### [OOPS!! recent blog updated (click me to leave your comments)](https://github.com/carloscn/blog/discussions) : 
 * ***[算法和数据结构(TOP) leetcode刷刷刷.....](https://github.com/carloscn/structstudy) [updating]***
 * [18_OPTEE-OS_应用之（三）可信应用的开发](https://github.com/carloscn/blog/issues/108) [2022-10-7] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=OPTEE&color=green"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=lightgrey"></a>
@@ -57,14 +68,7 @@
 ---
 
   
-### About Me :
 
-
-**I am an Embedded Software Developer from China.** 
-
-**Focusing on** C/C++/Embedded/Qt/Linux/ARM assembly/IoT device/Security. Learning to ARMv7/v8 Arch/Linux Kernel/Compiler/Linker Fun fact: LesMills body-combat/body-pump/ he-trip and RPM. 
-  
-<img src="https://komarev.com/ghpvc/?username=carloscn&style=flat-square&color=blue" alt=""/>
 
 
 <div id="header" align="left">
