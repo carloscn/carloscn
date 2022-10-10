@@ -17,7 +17,7 @@
 -->
 
 #### 最近更新：
-* [01_RTOS_嵌入式操作系统概述](https://github.com/carloscn/blog/issues/112) [2022-10-10] Linux: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=RTOS&color=orange"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Cortex-M&color=blue"></a> 
+* [01_RTOS_嵌入式操作系统概述](https://github.com/carloscn/blog/issues/112) [2022-10-10] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=RTOS&color=orange"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Cortex-M&color=blue"></a> 
 * [18_OPTEE-OS_应用之（三）可信应用的开发](https://github.com/carloscn/blog/issues/108) [2022-10-7] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=OPTEE&color=green"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=lightgrey"></a>
 * [16_OPTEE-OS_应用之（一）TA镜像的签名和加载](https://github.com/carloscn/blog/issues/106) [2022-10-7] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=OPTEE&color=green"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=lightgrey"></a>
 * [15_OPTEE-OS_内核之（七）系统调用及IPC机制](https://github.com/carloscn/blog/issues/105) [2022-10-6] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=OPTEE&color=green"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=lightgrey"></a>
