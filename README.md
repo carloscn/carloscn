@@ -35,16 +35,16 @@
 
 
 ## 仓库入口：
-* [参考文献入口 ：------------- https://github.com/carloscn/doclib](https://github.com/carloscn/doclib)
-* [个人博客入口 ：------------- https://github.com/carloscn/blog](https://github.com/carloscn/blog)
-* [架构集训入口 ：------------- https://github.com/carloscn/armv8-train](https://github.com/carloscn/armv8-train)
-* [数据结构入口 ：------------- https://github.com/carloscn/structstudy](https://github.com/carloscn/structstudy)
-* [Linux的内核 ：------------- https://github.com/carloscn/raspi-linux](https://github.com/carloscn/raspi-linux)
-* [uboot的入口 ：------------- https://github.com/carloscn/raspi-uboot](https://github.com/carloscn/raspi-uboot)
-* [安全套件源代 ：------------- https://github.com/carloscn/raspi-aft](https://github.com/carloscn/raspi-aft)
-* [安全系统源代 ：------------- https://github.com/carloscn/user-optee-os](https://github.com/carloscn/user-optee-os)
-* [安全应用实例 ：------------- https://github.com/carloscn/optee_examples](https://github.com/carloscn/optee_examples)
-* [配置文件综合 ：------------- https://github.com/carloscn/config](https://github.com/carloscn/config)
+* [参考文献入口 ：https://github.com/carloscn/doclib](https://github.com/carloscn/doclib)
+* [个人博客入口 ：https://github.com/carloscn/blog](https://github.com/carloscn/blog)
+* [架构集训入口 ：https://github.com/carloscn/armv8-train](https://github.com/carloscn/armv8-train)
+* [数据结构入口 ：https://github.com/carloscn/structstudy](https://github.com/carloscn/structstudy)
+* [Linux的内核 ：https://github.com/carloscn/raspi-linux](https://github.com/carloscn/raspi-linux)
+* [uboot的入口 ：https://github.com/carloscn/raspi-uboot](https://github.com/carloscn/raspi-uboot)
+* [安全套件源代 ：https://github.com/carloscn/raspi-aft](https://github.com/carloscn/raspi-aft)
+* [安全系统源代 ：https://github.com/carloscn/user-optee-os](https://github.com/carloscn/user-optee-os)
+* [安全应用实例 ：https://github.com/carloscn/optee_examples](https://github.com/carloscn/optee_examples)
+* [配置文件综合 ：https://github.com/carloscn/config](https://github.com/carloscn/config)
 
 <img src="https://komarev.com/ghpvc/?username=carloscn&style=flat-square&color=blue" alt=""/>
 
