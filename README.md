@@ -16,14 +16,6 @@
 ---
 -->
 
-#### 关于我 :
-
-**I am an Embedded Software Developer from China.** 
-
-**Focusing on** C/C++/Embedded/Qt/Linux/ARM assembly/IoT device/Security. Learning to ARMv7/v8 Arch/Linux Kernel/Compiler/Linker Fun fact: LesMills body-combat/body-pump/ he-trip and RPM. [OOPS!! recent blog updated (click me to leave your comments).](https://github.com/carloscn/blog/discussions)
-
------------------
-
 #### 最近更新：
 * [18_OPTEE-OS_应用之（三）可信应用的开发](https://github.com/carloscn/blog/issues/108) [2022-10-7] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=OPTEE&color=green"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=lightgrey"></a>
 * [16_OPTEE-OS_应用之（一）TA镜像的签名和加载](https://github.com/carloscn/blog/issues/106) [2022-10-7] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=OPTEE&color=green"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=lightgrey"></a>
@@ -48,7 +40,15 @@
 * [安全应用实例 ：https://github.com/carloscn/optee_examples](https://github.com/carloscn/optee_examples)
 * [配置文件综合 ：https://github.com/carloscn/config](https://github.com/carloscn/config)
 
+-----------------
 
+#### 关于我 :
+
+**I am an Embedded Software Developer from China.** 
+
+**Focusing on** C/C++/Embedded/Qt/Linux/ARM assembly/IoT device/Security. Learning to ARMv7/v8 Arch/Linux Kernel/Compiler/Linker Fun fact: LesMills body-combat/body-pump/ he-trip and RPM. [OOPS!! recent blog updated (click me to leave your comments).](https://github.com/carloscn/blog/discussions)
+
+-----------------
 <!--
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/16836611/163514037-fb7cc845-c7d2-41ae-acbc-8a202f2f9016.png">
 </div>
