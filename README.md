@@ -23,6 +23,7 @@
 * [linux内核调试（三）内核崩溃日志抓取pstore](https://zhuanlan.zhihu.com/p/545560128) [2022-10-23] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
 * [linux内核调试（二）内核错误处理流程](https://zhuanlan.zhihu.com/p/545307249) [2022-10-23] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
 * [linux内核调试（一）内核问题的原因](https://zhuanlan.zhihu.com/p/545002950) [2022-10-23] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a>
+* [3.1_Security_对称密钥算法之AES](https://github.com/carloscn/blog/issues/138) [2022-10-25] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=DC143C"></a>
 * [3.0_Security_对称密钥算法加解密](https://github.com/carloscn/blog/issues/137) [2022-10-23] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=DC143C"></a>
 * [2.0_Security_随机数（伪随机数）](https://github.com/carloscn/blog/issues/136) [2022-10-23] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=DC143C"></a>
 * [01_RTOS_嵌入式操作系统概述](https://github.com/carloscn/blog/issues/112) [2022-10-10] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=RTOS&color=orange"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Cortex-M&color=blue"></a> 
