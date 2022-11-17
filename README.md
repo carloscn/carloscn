@@ -13,16 +13,14 @@
 * Compiler: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Compiler&color=lightgrey"></a>
 * OPTEE: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=OPTEE&color=green"></a>
 * Security: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=DC143C"></a>
-
+---
+-->
 
 #### 最近活动：
 * ***[算法和数据结构(TOP) leetcode-daily-project](https://github.com/carloscn/structstudy) [updating]*** <img height="16" src="https://img.shields.io/static/v1?label=blog&message=ALGO&color=red"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=C Programming&color=FF1493"></a>
 * ***[密码学实验工程demo(TOP) openssl + mbedtls](https://github.com/carloscn/cryptography) [updating]*** <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=DC143C"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=C Programming&color=FF1493"></a>
 * ***[操作系统实验工程demo(TOP) csapp + linux-os](https://github.com/carloscn/clab) [updating]*** <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Linux&color=orange"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=C Programming&color=FF1493"></a>
 * [3.2_Security_对称密钥算法之MAC（CMAC/HMAC）](https://github.com/carloscn/blog/issues/144) [2022-11-10] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=DC143C"></a>
-* [[Embedded] ZYNQ-Secure Boot Flow](https://github.com/carloscn/blog/issues/148) [2022-11-7] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=DC143C"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Embedded&color=lightgrey"></a>
-* [[Embedded] ZYNQ-使用petalinux建立启动引导项（QSPI/JTAG/SD/TFTP）](https://github.com/carloscn/blog/issues/146) [2022-11-05] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Embedded&color=lightgrey"></a>
-* [[Embedded] ZYNQ-UltraScale+的启动流程](https://github.com/carloscn/blog/issues/147) [2022-11-05] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Embedded&color=lightgrey"></a> 
 * [3.1_Security_对称密钥算法之AES](https://github.com/carloscn/blog/issues/138) [2022-10-25] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=DC143C"></a>
 * [3.0_Security_对称密钥算法加解密](https://github.com/carloscn/blog/issues/137) [2022-10-23] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=DC143C"></a>
 * [2.0_Security_随机数（伪随机数）](https://github.com/carloscn/blog/issues/136) [2022-10-23] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=DC143C"></a>
@@ -67,5 +65,4 @@
 
 -->
 
----
--->
+
