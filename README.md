@@ -27,7 +27,7 @@
 * [2.0_Security_随机数（伪随机数）](https://github.com/carloscn/blog/issues/136) [2022-10-23] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=DC143C"></a>
 * [01_RTOS_嵌入式操作系统概述](https://github.com/carloscn/blog/issues/112) [2022-10-10] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=RTOS&color=orange"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Cortex-M&color=blue"></a> 
 * **参考全部博客： https://github.com/carloscn/blog** <a><a href="https://github.com/carloscn/blog/blob/main/README.md#ARMv8"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> <a><a href="https://github.com/carloscn/blog/blob/main/README.md#linux-userspace"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Linux&color=orange"></a> <a><a href="https://github.com/carloscn/blog/blob/main/README.md#linux-kernel"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a> <a><a href="https://github.com/carloscn/blog/blob/main/README.md#embedded"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Embedded&color=green"></a> <a><a href="https://github.com/carloscn/blog/blob/main/README.md#Qt"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Qt&color=greenlight"></a> 
-
+* **参考工作日志： https://github.com/carloscn/workrecord**
 -----------------
 
 #### 关于我 :
