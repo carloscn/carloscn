@@ -14,6 +14,8 @@
 * OPTEE: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=OPTEE&color=green"></a>
 * Security: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=DC143C"></a>
 * Embedded: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Embedded&color=1dcc66"></a>
+
+https://uutool.cn/color/
 ---
 -->
 
@@ -21,7 +23,7 @@
 * ***[算法和数据结构(TOP) leetcode-daily-project](https://github.com/carloscn/structstudy) [updating]*** <img height="16" src="https://img.shields.io/static/v1?label=blog&message=ALGO&color=red"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=C Programming&color=FF1493"></a>
 * ***[密码学实验工程demo(TOP) openssl + mbedtls](https://github.com/carloscn/cryptography) [updating]*** <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=DC143C"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=C Programming&color=FF1493"></a>
 * ***[操作系统实验工程demo(TOP) csapp + linux-os](https://github.com/carloscn/clab) [updating]*** <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Linux&color=orange"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=C Programming&color=FF1493"></a>
-* [(Embedded) NXP-imx6 initialization](https://github.com/carloscn/design/issues/165) [2023-01-14] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Embedded&color=1dcc66"></a>
+* [(Embedded) NXP-imx6 initialization](https://github.com/carloscn/design/issues/172) [2023-01-14] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Embedded&color=1dcc66"></a>
 * [01_Script_makefile_summary](https://github.com/carloscn/blog/issues/167) [2022-12-6]  <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Linux&color=orange"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ELF&color=green"></a>
 * [3.3_Security_对称密钥算法之AEAD](https://github.com/carloscn/blog/issues/145) [2022-11-17] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=DC143C"></a>
 * [3.2_Security_对称密钥算法之MAC（CMAC/HMAC）](https://github.com/carloscn/blog/issues/144) [2022-11-10] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=DC143C"></a>
