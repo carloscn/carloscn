@@ -34,6 +34,7 @@ https://uutool.cn/color/
 * [2.0_Security_随机数（伪随机数）](https://github.com/carloscn/blog/issues/136) [2022-10-23] <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=DC143C"></a>
 * **参考全部博客： https://github.com/carloscn/blog** <a><a href="https://github.com/carloscn/blog/blob/main/README.md#ARMv8"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> <a><a href="https://github.com/carloscn/blog/blob/main/README.md#linux-userspace"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Linux&color=orange"></a> <a><a href="https://github.com/carloscn/blog/blob/main/README.md#linux-kernel"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Kernel&color=red"></a> <a><a href="https://github.com/carloscn/blog/blob/main/README.md#embedded"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Embedded&color=green"></a> <a><a href="https://github.com/carloscn/blog/blob/main/README.md#Qt"><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Qt&color=greenlight"></a> 
 * **参考工作日志： https://github.com/carloscn/workrecord**
+
 -----------------
 
 #### 关于我 :
@@ -43,6 +44,13 @@ https://uutool.cn/color/
 **Focusing on** C/C++/Embedded/Qt/Linux/ARM assembly/IoT device/Security. Learning to ARMv7/v8 Arch/Linux Kernel/Compiler/Linker Fun fact: LesMills body-combat/body-pump/ he-trip and RPM. [OOPS!! recent blog updated (click me to leave your comments).](https://github.com/carloscn/blog/discussions)
 
 -----------------
+  
+#### Dest Tracing
+* [study-2023](https://github.com/users/carloscn/projects/10)
+* [loseweight](https://github.com/carloscn/loseweight)
+  
+-----------------
+  
 <!--
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/16836611/163514037-fb7cc845-c7d2-41ae-acbc-8a202f2f9016.png">
 </div>
