@@ -47,7 +47,7 @@ https://uutool.cn/color/
   
 #### Dest Tracing
 * [study-2023](https://github.com/users/carloscn/projects/10)
-* [loseweight](https://github.com/carloscn/loseweight)
+* [fitness](https://github.com/carloscn/fitness)
   
 -----------------
   
