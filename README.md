@@ -20,6 +20,7 @@ https://uutool.cn/color/
 -->
 
 #### 最近活动：
+* [基于RISC-V架构和RUST语言-开发简易的操作系统系统](https://github.com/carloscn/rbp-os) 
 * ***[算法和数据结构(TOP) leetcode-daily-project](https://github.com/carloscn/structstudy) [updating]*** <img height="16" src="https://img.shields.io/static/v1?label=blog&message=ALGO&color=red"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=C Programming&color=FF1493"></a>
 * ***[密码学实验工程demo(TOP) openssl + mbedtls](https://github.com/carloscn/cryptography) [updating]*** <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=DC143C"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=C Programming&color=FF1493"></a>
 * ***[操作系统实验工程demo(TOP) C/C++ + rust + Linux](https://github.com/carloscn/clab) [updating]*** <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Linux&color=orange"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=C Programming&color=FF1493"></a>
