@@ -6,6 +6,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+* RISC-V: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=RISC-V&color=blue"></a> 
 * ARMv8: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> 
 * Linux: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Linux&color=orange"></a>
 * ELF: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ELF&color=green"></a>
@@ -14,13 +15,14 @@
 * OPTEE: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=OPTEE&color=green"></a>
 * Security: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=DC143C"></a>
 * Embedded: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Embedded&color=1dcc66"></a>
+* RUST: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=RUST&color=green"></a>
 
 https://uutool.cn/color/
 ---
 -->
 
 #### 最近活动：
-* [基于RISC-V架构和RUST语言-开发简易的操作系统系统](https://github.com/carloscn/rbp-os) 
+* ***[基于RISC-V架构和RUST语言-开发简易的操作系统系统](https://github.com/carloscn/rbp-os) [updating]*** <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=RISC-V&color=blue"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=RUST&color=green"></a>
 * ***[算法和数据结构(TOP) leetcode-daily-project](https://github.com/carloscn/structstudy) [updating]*** <img height="16" src="https://img.shields.io/static/v1?label=blog&message=ALGO&color=red"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=C Programming&color=FF1493"></a>
 * ***[密码学实验工程demo(TOP) openssl + mbedtls](https://github.com/carloscn/cryptography) [updating]*** <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Security&color=DC143C"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=C Programming&color=FF1493"></a>
 * ***[操作系统实验工程demo(TOP) C/C++ + rust + Linux](https://github.com/carloscn/clab) [updating]*** <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=Linux&color=orange"></a> <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=C Programming&color=FF1493"></a>
