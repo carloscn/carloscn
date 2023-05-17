@@ -23,10 +23,10 @@ https://uutool.cn/color/
 -->
 
 #### 知识扩充中ing：
-* [8.0_Security_pkcs7(CMS)_embedded](https://github.com/carloscn/blog/issues/186) [2023-05-17] 
-* [02_ARMv7-M_编程模型与模式](https://github.com/carloscn/blog/issues/123) [2023-05-10]
+* [8.0_Security_pkcs7(CMS)_embedded](https://github.com/carloscn/blog/issues/186) [2023-05-17] [wip]
+* [02_ARMv7-M_编程模型与模式](https://github.com/carloscn/blog/issues/123) [2023-05-10] [wip]
 * [10_ELF文件_ARM的镜像文件(.bin/.hex/.s19)](https://github.com/carloscn/blog/issues/184) [2023-04-28]
-* [04_ARMv7-M_异常处理及中断处理](https://github.com/carloscn/blog/issues/127) [2023-04-23]
+* [04_ARMv7-M_异常处理及中断处理](https://github.com/carloscn/blog/issues/127) [2023-04-23] [wip]
 * [03_ARMv7-M_存储系统结构](https://github.com/carloscn/blog/issues/124) [2023-04-13]
 * [01_ARMv7m_Using_The_RUST_Cross_Compiler](https://github.com/carloscn/blog/issues/180) [2023-04-13]
 * [01_ARMv7-M_处理器架构技术综述](https://github.com/carloscn/blog/issues/122) [2023-04-01]
