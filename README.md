@@ -30,8 +30,7 @@ https://uutool.cn/color/
 * [03_ARMv7-M_存储系统结构](https://github.com/carloscn/blog/issues/124) [2023-04-13]
 * [01_ARMv7m_Using_The_RUST_Cross_Compiler](https://github.com/carloscn/blog/issues/180) [2023-04-13]
 * [01_ARMv7-M_处理器架构技术综述](https://github.com/carloscn/blog/issues/122) [2023-04-01]
-* **参考全部博客： https://github.com/carloscn/blog**
-* **参考工作日志： https://github.com/carloscn/workrecord**
+* **[参考全部博客： https://github.com/carloscn/blog](https://github.com/carloscn/blog/blob/main/README.md)**
 
 #### 快速入口：
 * ***[基于ARMv7-M架构使用rust语言开发的简易操作系统](https://github.com/carloscn/rbp-os) [updating]*** 
