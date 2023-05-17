@@ -22,7 +22,7 @@ https://uutool.cn/color/
 ---
 -->
 
-#### 最近活动：
+#### 知识扩充中ing：
 * ***[基于ARMv7-M架构使用rust语言开发的简易操作系统](https://github.com/carloscn/rbp-os) [updating]*** 
 * ***[算法和数据结构(TOP) leetcode-daily-project](https://github.com/carloscn/structstudy) [updating]*** 
 * ***[密码学实验工程demo(TOP) openssl + mbedtls](https://github.com/carloscn/cryptography) [updating]***
