@@ -23,10 +23,6 @@ https://uutool.cn/color/
 -->
 
 #### 知识扩充中ing：
-* ***[基于ARMv7-M架构使用rust语言开发的简易操作系统](https://github.com/carloscn/rbp-os) [updating]*** 
-* ***[算法和数据结构(TOP) leetcode-daily-project](https://github.com/carloscn/structstudy) [updating]*** 
-* ***[密码学实验工程demo(TOP) openssl + mbedtls](https://github.com/carloscn/cryptography) [updating]***
-* ***[操作系统实验工程demo(TOP) C/C++ + rust + Linux](https://github.com/carloscn/clab) [updating]*** 
 * [8.0_Security_pkcs7(CMS)_embedded](https://github.com/carloscn/blog/issues/186) [2023-05-17] 
 * [02_ARMv7-M_编程模型与模式](https://github.com/carloscn/blog/issues/123) [2023-05-10]
 * [10_ELF文件_ARM的镜像文件(.bin/.hex/.s19)](https://github.com/carloscn/blog/issues/184) [2023-04-28]
@@ -37,6 +33,11 @@ https://uutool.cn/color/
 * **参考全部博客： https://github.com/carloscn/blog**
 * **参考工作日志： https://github.com/carloscn/workrecord**
 
+#### 快速入口：
+* ***[基于ARMv7-M架构使用rust语言开发的简易操作系统](https://github.com/carloscn/rbp-os) [updating]*** 
+* ***[算法和数据结构(TOP) leetcode-daily-project](https://github.com/carloscn/structstudy) [updating]*** 
+* ***[密码学实验工程demo(TOP) openssl + mbedtls](https://github.com/carloscn/cryptography) [updating]***
+* ***[操作系统实验工程demo(TOP) C/C++ + rust + Linux](https://github.com/carloscn/clab) [updating]*** 
 -----------------
 
 #### 关于我 :
