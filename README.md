@@ -33,10 +33,10 @@ https://uutool.cn/color/
 * **[参考全部博客： https://github.com/carloscn/blog](https://github.com/carloscn/blog/blob/main/README.md)**
 
 #### 快速入口：
-* ***[基于ARMv7-M架构使用rust语言开发的简易操作系统](https://github.com/carloscn/rbp-os) [updating]*** 
-* ***[算法和数据结构(TOP) leetcode-daily-project](https://github.com/carloscn/structstudy) [updating]*** 
-* ***[密码学实验工程demo(TOP) openssl + mbedtls](https://github.com/carloscn/cryptography) [updating]***
-* ***[操作系统实验工程demo(TOP) C/C++ + rust + Linux](https://github.com/carloscn/clab) [updating]*** 
+* ***[基于ARMv7-M架构使用rust语言开发的简易操作系统](https://github.com/carloscn/rbp-os)*** 
+* ***[算法和数据结构(TOP) leetcode-daily-project](https://github.com/carloscn/structstudy)*** 
+* ***[密码学实验工程demo(TOP) openssl + mbedtls](https://github.com/carloscn/cryptography)***
+* ***[操作系统实验工程demo(TOP) C/C++ + rust + Linux](https://github.com/carloscn/clab)*** 
 -----------------
 
 #### 关于我 :
