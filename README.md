@@ -31,27 +31,13 @@ https://uutool.cn/color/
 * [01_ARMv7m_Using_The_RUST_Cross_Compiler](https://github.com/carloscn/blog/issues/180) [2023-04-13]
 * [01_ARMv7-M_处理器架构技术综述](https://github.com/carloscn/blog/issues/122) [2023-04-01]
 * **[参考全部博客： https://github.com/carloscn/blog](https://github.com/carloscn/blog/blob/main/README.md)**
-
+-----------------
 #### 快速入口：
 * ***[基于ARMv7-M架构使用rust语言开发的简易操作系统](https://github.com/carloscn/rbp-os)*** 
 * ***[算法和数据结构(TOP) leetcode-daily-project](https://github.com/carloscn/structstudy)*** 
 * ***[密码学实验工程demo(TOP) openssl + mbedtls](https://github.com/carloscn/cryptography)***
 * ***[操作系统实验工程demo(TOP) C/C++ + rust + Linux](https://github.com/carloscn/clab)*** 
------------------
 
-#### 关于我 :
-
-**I am an Embedded Software Developer from China.** 
-
-**Focusing on** C/C++/Embedded/Qt/Linux/ARM assembly/IoT device/Security. Learning to ARMv7/v8 Arch/Linux Kernel/Compiler/Linker Fun fact: LesMills body-combat/body-pump/ he-trip and RPM. [OOPS!! recent blog updated (click me to leave your comments).](https://github.com/carloscn/blog/discussions)
-
------------------
-  
-#### Dest Tracing
-* [study-2023](https://github.com/users/carloscn/projects/10)
-* [fitness](https://github.com/carloscn/fitness)
-  
------------------
   
 <!--
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/16836611/163514037-fb7cc845-c7d2-41ae-acbc-8a202f2f9016.png">
