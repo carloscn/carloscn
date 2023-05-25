@@ -23,7 +23,7 @@ https://uutool.cn/color/
 -->
 
 #### 知识扩充中ing：
-* [02_SYS_RUST_文件IO](https://github.com/carloscn/blog/issues/190 [2023-05-24]
+* [02_SYS_RUST_文件IO](https://github.com/carloscn/blog/issues/190) [2023-05-24]
 * [8.0_Security_pkcs7(CMS)_embedded](https://github.com/carloscn/blog/issues/186) [2023-05-17]
 * [wip] [02_ARMv7-M_编程模型与模式](https://github.com/carloscn/blog/issues/123) [2023-05-10]
 * [10_ELF文件_ARM的镜像文件(.bin/.hex/.s19)](https://github.com/carloscn/blog/issues/184) [2023-04-28]
