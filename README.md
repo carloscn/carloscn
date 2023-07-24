@@ -18,11 +18,12 @@
 * RUST: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=RUST&color=green"></a>
 
 https://uutool.cn/color/
+
+* **[wip][所有博客已经备份至 gitbook ](https://carloss-organization-4.gitbook.io/tech/tech/rust-arm-os) [[link](https://carloss-organization-4.gitbook.io/tech/tech/rust-arm-os)] [2023-07-24]**
 ---
 -->
 
 #### 知识扩充中ing：
-* **[wip][所有博客已经备份至 gitbook ](https://carloss-organization-4.gitbook.io/tech/tech/rust-arm-os) [[link](https://carloss-organization-4.gitbook.io/tech/tech/rust-arm-os)] [2023-07-24]**
 * [wip] [02_SYS_RUST_文件IO](https://github.com/carloscn/blog/issues/190) [2023-05-24]
 * [8.0_Security_pkcs7(CMS)_embedded](https://github.com/carloscn/blog/issues/186) [2023-05-17]
 * [02_ARMv7-M_编程模型与模式](https://github.com/carloscn/blog/issues/123) [2023-05-10]
