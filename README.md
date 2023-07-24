@@ -5,7 +5,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
 * RISC-V: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=RISC-V&color=blue"></a> 
 * ARMv8: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ARMv8&color=blue"></a> 
 * ARMv7: <a><img height="16" src="https://img.shields.io/static/v1?label=blog&message=ARMv7&color=blue"></a> 
@@ -23,6 +22,7 @@ https://uutool.cn/color/
 -->
 
 #### 知识扩充中ing：
+* **[wip][所有博客已经备份至 gitbook ](https://carloss-organization-4.gitbook.io/tech/tech/rust-arm-os) [[link](https://carloss-organization-4.gitbook.io/tech/tech/rust-arm-os)] [2023-07-24]**
 * [wip] [02_SYS_RUST_文件IO](https://github.com/carloscn/blog/issues/190) [2023-05-24]
 * [8.0_Security_pkcs7(CMS)_embedded](https://github.com/carloscn/blog/issues/186) [2023-05-17]
 * [02_ARMv7-M_编程模型与模式](https://github.com/carloscn/blog/issues/123) [2023-05-10]
