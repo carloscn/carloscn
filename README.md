@@ -24,7 +24,7 @@ https://uutool.cn/color/
 -->
 
 #### 知识扩充中ing：
-* ** 哥们，要去考雅思了，study-2023计划先搁置，开始run-2023之旅：https://github.com/carloscn/english **
+* **哥们，要去考雅思了，暂时停更技术博客，开始：https://github.com/carloscn/english**
 * [wip] [02_SYS_RUST_文件IO](https://github.com/carloscn/blog/issues/190) [2023-05-24]
 * [8.0_Security_pkcs7(CMS)_embedded](https://github.com/carloscn/blog/issues/186) [2023-05-17]
 * [02_ARMv7-M_编程模型与模式](https://github.com/carloscn/blog/issues/123) [2023-05-10]
