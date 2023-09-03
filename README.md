@@ -24,7 +24,6 @@ https://uutool.cn/color/
 -->
 
 #### 知识扩充中ing：
-* **哥们，要去考雅思了，暂时停更技术博客，开始：https://github.com/carloscn/english**
 * [wip] [02_SYS_RUST_文件IO](https://github.com/carloscn/blog/issues/190) [2023-05-24]
 * [8.0_Security_pkcs7(CMS)_embedded](https://github.com/carloscn/blog/issues/186) [2023-05-17]
 * [02_ARMv7-M_编程模型与模式](https://github.com/carloscn/blog/issues/123) [2023-05-10]
@@ -38,7 +37,8 @@ https://uutool.cn/color/
 * ***[基于ARMv7-M架构使用rust语言开发的简易操作系统](https://github.com/carloscn/rbp-os)*** 
 * ***[算法和数据结构(TOP) leetcode-daily-project](https://github.com/carloscn/structstudy)*** 
 * ***[密码学实验工程demo(TOP) openssl + mbedtls](https://github.com/carloscn/cryptography)***
-* ***[操作系统实验工程demo(TOP) C/C++ + rust + Linux](https://github.com/carloscn/clab)*** 
+* ***[操作系统实验工程demo(TOP) C/C++ + rust + Linux](https://github.com/carloscn/clab)***
+* ***[哥们，要去考雅思了，暂时停更技术博客](https://github.com/carloscn/english)***
 
   
 <!--
