@@ -24,6 +24,7 @@ https://uutool.cn/color/
 -->
 
 #### 知识扩充中ing：
+* [[IMX6] Defining A U-Boot Command](https://carloss-organization-4.gitbook.io/tech/ecus/imx6-8_documents/imx6-defining-a-u-boot-command) [2023-09-14]
 * [wip] [02_SYS_RUST_文件IO](https://github.com/carloscn/blog/issues/190) [2023-05-24]
 * [8.0_Security_pkcs7(CMS)_embedded](https://github.com/carloscn/blog/issues/186) [2023-05-17]
 * [02_ARMv7-M_编程模型与模式](https://github.com/carloscn/blog/issues/123) [2023-05-10]
