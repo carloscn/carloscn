@@ -24,14 +24,14 @@ https://uutool.cn/color/
 -->
 
 #### 知识扩充中ing：
-* [[armv8-m] trustzone tech overall](https://github.com/carloscn/blog/issues/197) [2023-11-07]
+* [[armv8-m] TrustZone Tech Description](https://github.com/carloscn/blog/issues/199) [2023-11-17]
+* [[armv8-m] TrustZone Tech Overview](https://github.com/carloscn/blog/issues/197) [2023-11-07]
 * [[IMX6] Defining A U-Boot Command](https://carloss-organization-4.gitbook.io/tech/ecus/imx6-8_documents/imx6-defining-a-u-boot-command) [2023-09-14]
 * [wip] [02_SYS_RUST_文件IO](https://github.com/carloscn/blog/issues/190) [2023-05-24]
 * [8.0_Security_pkcs7(CMS)_embedded](https://github.com/carloscn/blog/issues/186) [2023-05-17]
 * [02_ARMv7-M_编程模型与模式](https://github.com/carloscn/blog/issues/123) [2023-05-10]
 * [10_ELF文件_ARM的镜像文件(.bin/.hex/.s19)](https://github.com/carloscn/blog/issues/184) [2023-04-28]
 * [wip] [04_ARMv7-M_异常处理及中断处理](https://github.com/carloscn/blog/issues/127) [2023-04-23] 
-* [wip] [03_ARMv7-M_存储系统结构](https://github.com/carloscn/blog/issues/124) [2023-04-13]
 * **[参考全部博客： https://github.com/carloscn/blog](https://github.com/carloscn/blog/blob/main/README.md)**
 -----------------
 #### 快速入口：
