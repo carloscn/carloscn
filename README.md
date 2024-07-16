@@ -34,12 +34,6 @@ https://uutool.cn/color/
 * [10_ELF文件_ARM的镜像文件(.bin/.hex/.s19)](https://github.com/carloscn/blog/issues/184) [2023-04-28]
 * **[参考全部博客： https://github.com/carloscn/blog](https://github.com/carloscn/blog/blob/main/README.md)**
 -----------------
-#### 快速入口：
-* ***[基于ARMv7-M架构使用rust语言开发的简易操作系统](https://github.com/carloscn/rbp-os)*** 
-* ***[算法和数据结构(TOP) leetcode-daily-project](https://github.com/carloscn/structstudy)*** 
-* ***[密码学实验工程demo(TOP) openssl + mbedtls](https://github.com/carloscn/cryptography)***
-* ***[操作系统实验工程demo(TOP) C/C++ + rust + Linux](https://github.com/carloscn/clab)***
-* ***[哥们，要去考雅思了，暂时停更技术博客](https://github.com/carloscn/english)***
 
   
 <!--
