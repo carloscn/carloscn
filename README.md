@@ -23,7 +23,7 @@ https://uutool.cn/color/
 ---
 -->
 
-#### 知识扩充中ing：
+#### Updating：
 * [[IMX6] High Assurance Boot (HAB) for dummies](https://github.com/carloscn/blog/issues/232) [2024-07-26]
 * [[Yocto] 03_Creating a Custom Yocto Layer ](https://github.com/carloscn/blog/issues/227) [2024-06-10]
 * [[Yocto] 02_Builds without an Internet Connection](https://github.com/carloscn/blog/issues/226) [2024-06-10]
