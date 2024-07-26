@@ -24,6 +24,10 @@ https://uutool.cn/color/
 -->
 
 #### 知识扩充中ing：
+* [[IMX6] High Assurance Boot (HAB) for dummies](https://github.com/carloscn/blog/issues/232) [2024-07-26]
+* [[Yocto] 03_Creating a Custom Yocto Layer ](https://github.com/carloscn/blog/issues/227) [2024-06-10]
+* [[Yocto] 02_Builds without an Internet Connection](https://github.com/carloscn/blog/issues/226) [2024-06-10]
+* [[Yocto] 01_Building Yocto Images using a Docker Container ](https://github.com/carloscn/blog/issues/225) [2024-06-10]
 * [[Linux] 简析Linux镜像生成过程](https://github.com/carloscn/blog/issues/209) [2024-03-01]
 * [[armv8-m] TrustZone Tech Description](https://github.com/carloscn/blog/issues/199) [2023-11-17]
 * [[armv8-m] TrustZone Tech Overview](https://github.com/carloscn/blog/issues/197) [2023-11-07]
