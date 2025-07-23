@@ -19,7 +19,7 @@
 ---
 -->
 
-Note，This account's content is solely for personal learning records, sourced from AI, the internet, books, and official documents, and may not be reproduced, distributed, or plagiarized without authorization; for any copyright or legal issues, please contact me via email, and I will promptly address and remove the relevant content. Thank you for your cooperation.
+Note, This account's content (documents, code and project) is solely for personal learning records, not for commercial profit, sourced from AI, the internet, books, and official documents, and may not be reproduced, distributed, or plagiarized without authorization; for any copyright issues, please contact me via email, and I will promptly address and remove the relevant content. Thank you for your cooperation.
 
 #### Updating：
 * [[IMX6] High Assurance Boot (HAB) for dummies](https://github.com/carloscn/blog/issues/232) [2024-07-26]
